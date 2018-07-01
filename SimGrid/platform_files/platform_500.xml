@@ -1,0 +1,2007 @@
+<?xml version='1.0'?>
+<!DOCTYPE platform SYSTEM "http://simgrid.gforge.inria.fr/simgrid/simgrid.dtd">
+<platform version="4.1">
+<zone id="AS0" routing="Full">
+
+<host id="MyHost0" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost1" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost2" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost3" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost4" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost5" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost6" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost7" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost8" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost9" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost10" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost11" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost12" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost13" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost14" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost15" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost16" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost17" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost18" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost19" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost20" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost21" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost22" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost23" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost24" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost25" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost26" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost27" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost28" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost29" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost30" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost31" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost32" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost33" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost34" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost35" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost36" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost37" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost38" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost39" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost40" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost41" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost42" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost43" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost44" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost45" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost46" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost47" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost48" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost49" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost50" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost51" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost52" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost53" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost54" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost55" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost56" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost57" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost58" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost59" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost60" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost61" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost62" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost63" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost64" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost65" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost66" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost67" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost68" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost69" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost70" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost71" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost72" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost73" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost74" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost75" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost76" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost77" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost78" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost79" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost80" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost81" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost82" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost83" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost84" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost85" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost86" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost87" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost88" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost89" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost90" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost91" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost92" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost93" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost94" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost95" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost96" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost97" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost98" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost99" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost100" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost101" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost102" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost103" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost104" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost105" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost106" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost107" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost108" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost109" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost110" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost111" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost112" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost113" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost114" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost115" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost116" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost117" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost118" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost119" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost120" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost121" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost122" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost123" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost124" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost125" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost126" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost127" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost128" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost129" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost130" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost131" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost132" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost133" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost134" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost135" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost136" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost137" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost138" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost139" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost140" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost141" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost142" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost143" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost144" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost145" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost146" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost147" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost148" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost149" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost150" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost151" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost152" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost153" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost154" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost155" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost156" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost157" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost158" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost159" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost160" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost161" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost162" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost163" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost164" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost165" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost166" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost167" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost168" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost169" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost170" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost171" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost172" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost173" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost174" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost175" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost176" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost177" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost178" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost179" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost180" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost181" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost182" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost183" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost184" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost185" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost186" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost187" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost188" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost189" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost190" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost191" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost192" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost193" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost194" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost195" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost196" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost197" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost198" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost199" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost200" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost201" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost202" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost203" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost204" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost205" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost206" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost207" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost208" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost209" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost210" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost211" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost212" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost213" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost214" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost215" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost216" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost217" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost218" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost219" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost220" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost221" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost222" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost223" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost224" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost225" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost226" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost227" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost228" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost229" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost230" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost231" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost232" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost233" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost234" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost235" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost236" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost237" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost238" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost239" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost240" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost241" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost242" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost243" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost244" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost245" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost246" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost247" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost248" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost249" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost250" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost251" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost252" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost253" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost254" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost255" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost256" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost257" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost258" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost259" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost260" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost261" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost262" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost263" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost264" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost265" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost266" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost267" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost268" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost269" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost270" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost271" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost272" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost273" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost274" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost275" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost276" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost277" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost278" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost279" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost280" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost281" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost282" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost283" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost284" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost285" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost286" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost287" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost288" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost289" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost290" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost291" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost292" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost293" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost294" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost295" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost296" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost297" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost298" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost299" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost300" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost301" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost302" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost303" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost304" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost305" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost306" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost307" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost308" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost309" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost310" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost311" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost312" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost313" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost314" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost315" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost316" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost317" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost318" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost319" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost320" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost321" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost322" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost323" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost324" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost325" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost326" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost327" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost328" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost329" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost330" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost331" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost332" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost333" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost334" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost335" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost336" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost337" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost338" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost339" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost340" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost341" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost342" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost343" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost344" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost345" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost346" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost347" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost348" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost349" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost350" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost351" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost352" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost353" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost354" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost355" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost356" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost357" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost358" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost359" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost360" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost361" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost362" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost363" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost364" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost365" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost366" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost367" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost368" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost369" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost370" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost371" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost372" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost373" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost374" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost375" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost376" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost377" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost378" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost379" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost380" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost381" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost382" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost383" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost384" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost385" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost386" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost387" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost388" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost389" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost390" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost391" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost392" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost393" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost394" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost395" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost396" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost397" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost398" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost399" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost400" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost401" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost402" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost403" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost404" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost405" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost406" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost407" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost408" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost409" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost410" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost411" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost412" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost413" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost414" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost415" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost416" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost417" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost418" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost419" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost420" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost421" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost422" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost423" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost424" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost425" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost426" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost427" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost428" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost429" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost430" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost431" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost432" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost433" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost434" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost435" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost436" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost437" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost438" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost439" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost440" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost441" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost442" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost443" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost444" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost445" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost446" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost447" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost448" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost449" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost450" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost451" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost452" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost453" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost454" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost455" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost456" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost457" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost458" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost459" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost460" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost461" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost462" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost463" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost464" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost465" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost466" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost467" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost468" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost469" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost470" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost471" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost472" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost473" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost474" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost475" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost476" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost477" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost478" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost479" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost480" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost481" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost482" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost483" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost484" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost485" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost486" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost487" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost488" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost489" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost490" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost491" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost492" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost493" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost494" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost495" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost496" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost497" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost498" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+<host id="MyHost499" speed="1.32Gf" pstate="0" core="2">
+<prop id="watt_per_state" value="93.7:116.0:135.0"/>
+<prop id="watt_off" value="93.7"/>
+</host>
+</zone>
+</platform>

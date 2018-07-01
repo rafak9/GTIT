@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<!DOCTYPE platform SYSTEM "http://simgrid.gforge.inria.fr/simgrid/simgrid.dtd">
+<platform version="4.1">
+  <zone id="AS0" routing="Full">
+    <!-- Multiple pstate processor capacities can be defined as a list of powers specified for a given host -->
+    <!-- Attribute 'pstate' specifies the initialy selected pstate (here, the lowest pstate corresponds to the highest
+         processor speed) -->
+    <host id="MyHost1" speed="1.32Gf" pstate="0" core="1000" >
+      <!--  List of Idle:OneCore:AllCores (in Watts) corresponding to the speed consumed when the processor is idle
+            and when one core is at full speed, and when all cores are fully loaded -->
+      <!--  The list must contain one energetic profile for each previously defined pstate-->
+      <prop id="watt_per_state" value="93.7:116.0:135.0" />
+      <prop id="watt_off" value="93.7" />
+    </host>
+
+	
+	
+	
+	
+  </zone>
+</platform>
