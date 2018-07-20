@@ -1,37 +1,38 @@
-package edu.uwo.csd.dcsim.examples;
-
-import java.util.ArrayList;
-import java.util.Collections;
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package dcsimartigo;
 
 import org.apache.log4j.Logger;
-
-import edu.uwo.csd.dcsim.*;
+import edu.uwo.csd.dcsim.DataCentre;
+import edu.uwo.csd.dcsim.SimulationTask;
+import edu.uwo.csd.dcsim.application.Application;
 import edu.uwo.csd.dcsim.application.Applications;
 import edu.uwo.csd.dcsim.application.InteractiveApplication;
 import edu.uwo.csd.dcsim.application.workload.TraceWorkload;
 import edu.uwo.csd.dcsim.common.SimTime;
-import edu.uwo.csd.dcsim.core.*;
-import edu.uwo.csd.dcsim.examples.management.RelocationPolicy;
+import edu.uwo.csd.dcsim.core.Event;
+import edu.uwo.csd.dcsim.core.EventCallbackListener;
+import edu.uwo.csd.dcsim.core.Simulation;
 import edu.uwo.csd.dcsim.host.Host;
 import edu.uwo.csd.dcsim.host.HostModels;
 import edu.uwo.csd.dcsim.host.resourcemanager.DefaultResourceManagerFactory;
 import edu.uwo.csd.dcsim.host.scheduler.DefaultResourceSchedulerFactory;
-import edu.uwo.csd.dcsim.management.*;
+import edu.uwo.csd.dcsim.management.AutonomicManager;
 import edu.uwo.csd.dcsim.management.capabilities.HostManager;
 import edu.uwo.csd.dcsim.management.capabilities.HostPoolManager;
 import edu.uwo.csd.dcsim.management.events.VmPlacementEvent;
-import edu.uwo.csd.dcsim.management.policies.HostMonitoringPolicy;
+import edu.uwo.csd.dcsim.management.policies.DefaultVmPlacementPolicy;
 import edu.uwo.csd.dcsim.management.policies.HostOperationsPolicy;
 import edu.uwo.csd.dcsim.management.policies.HostStatusPolicy;
-import edu.uwo.csd.dcsim.management.policies.DefaultVmPlacementPolicy;
 import edu.uwo.csd.dcsim.vm.VmAllocationRequest;
-import edu.uwo.csd.dcsim.application.Application;
+import java.util.ArrayList;
 
 /**
- * A basic example of how to setup and run a simulation.
  *
- * @author Michael Tighe
- *
+ * @author rk
  */
 public class SimpleExample extends SimulationTask {
 
